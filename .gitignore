@@ -1,0 +1,27 @@
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Local environment and editor files
+.env
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Generated binaries
+/bin/
+/build/
+/dist/

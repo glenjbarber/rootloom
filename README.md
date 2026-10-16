@@ -13,4 +13,4 @@ The name plays on the `root@lolhost $` shell-prompt joke.
 
 ## Project guidance
 
-Read [AGENTS.md](AGENTS.md) before project work. Claude Code should also follow [CLAUDE.md](CLAUDE.md). See [docs/scope.md](docs/scope.md) for the current scope summary.
+See [docs/scope.md](docs/scope.md) for the current scope summary. Agent configuration and cross-project coordination are maintained outside this repository.
